@@ -1,4 +1,4 @@
-# google-api-location-app
+# google-maps-api-based-app
 
 > location based app with google maps api
 
